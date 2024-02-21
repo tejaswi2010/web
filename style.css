@@ -1,0 +1,24 @@
+section{
+    display: flex;
+}
+h1{
+    text-align: center;
+    text-decoration: double;
+    margin-top: 20px;
+    
+}
+html{
+    background-color: deepskyblue;
+    display: flex;
+}
+P{
+    display: flex;
+}
+
+div{
+   text-align: center;
+   margin-top: 375px;
+}
+a{
+    color: black;
+}
